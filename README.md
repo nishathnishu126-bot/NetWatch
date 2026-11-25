@@ -6,7 +6,7 @@ NetWatch is a network monitoring system designed to help monitor and manage netw
 ## Technologies Used
 - React.js
 - Node.js
-- JavaScript
+- JavaScripts
 - MySQL
 - HTML
 - CSS
